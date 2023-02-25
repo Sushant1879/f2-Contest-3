@@ -1,0 +1,8 @@
+.edit-button, .save-button, .add-row{
+    background-color:black;
+    color: white;
+}
+
+#data_table{
+    border-collapse: collapse;
+}
